@@ -36,6 +36,3 @@ The **Medi Box** project aims to enhance the medication management experience of
 - **Wokwi**:IoT and Embedded System Simulator
 
 
-![Medi Box](MediBox.png)
-![NodeRed Dashboard](Dashboard.png)
-
